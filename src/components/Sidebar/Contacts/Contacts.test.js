@@ -7,7 +7,7 @@ import Contacts from './Contacts';
 describe('Contacts', () => {
   const props = {
     contacts: {
-      email: '#',
+      email: 'kms920612@gmail.com',
       twitter: '#',
       vkontakte: '#',
       github: '#',

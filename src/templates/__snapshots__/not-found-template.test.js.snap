@@ -146,7 +146,7 @@ exports[`NotFoundTemplate renders correctly 1`] = `
           >
             <a
               className="contacts__list-item-link"
-              href="https://github.com/#"
+              href="https://github.com/DylanMsK"
               rel="noopener noreferrer"
               target="_blank"
             >
